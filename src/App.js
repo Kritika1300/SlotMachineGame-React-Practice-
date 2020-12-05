@@ -36,7 +36,8 @@ const SlotM = (props) => {
      <h1 className = "heading_style">
         🎰  Welcome to <span style = { {color: 'red',backgroundColor:'#ffff'} }>Slot Machine game </span>🎰
      </h1>
-     <div className="slotmachine">
+    
+    <center><div className="slotmachine">
      <SlotM x = '😇' y='😇' z='😇'/>
      <SlotM x = '🍓 '   y= '💝'z= '🍎'  />
      <SlotM x = '🍀' y= '🕗'  z= '🍀 '/>
@@ -44,6 +45,8 @@ const SlotM = (props) => {
      <SlotM x = '😇' y='😇' z= '😇'/>
      
      </div>
+     </center> 
+    
      
      </>
 

@@ -18,4 +18,17 @@
 }
 .slot_inner{
   color:white;
+
+}
+
+
+.slotmachine{
+  
+  margin:5%;
+  
+  background-color:black;
+  width: 22.25%;
+  text-align: center;
+
+  border: 2px solid whitesmoke;
 }
